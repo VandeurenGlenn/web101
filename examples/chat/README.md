@@ -6,7 +6,7 @@
 create a new folder and name it socketchat then go into that folder and create the "src" directory
 
 ## setting up package.json
-open a command terminal and type ```sh npm init```
+open a command terminal and type ```npm init```
 
 ## install dependencies
 ```sh
